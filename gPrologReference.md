@@ -19,10 +19,10 @@ If one wants to start with only a few predicates directly typed into the termina
 ### First predicates
 We specify some family relations (which is kind of Hello World to Prolog programs). So we start of with specifying some persons and state whether they are man or woman.
 ```
-   croaks(fritz)
-   eatsFlies(fritz).
-   chirps(burli).
-   sings(burli).
+croaks(fritz)
+eatsFlies(fritz).
+chirps(burli).
+sings(burli).
 ```
 
 To exit the "input mode", we type `Ctrl D`. Now we can ask the prolog system whether the persons given are man or woman:
