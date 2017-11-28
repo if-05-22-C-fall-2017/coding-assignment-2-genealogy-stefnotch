@@ -19,7 +19,7 @@ If one wants to start with only a few predicates directly typed into the termina
 ### First predicates
 We specify some family relations (which is kind of Hello World to Prolog programs). So we start of with specifying some persons and state whether they are man or woman.
 ```
-croaks(fritz)
+croaks(fritz).
 eatsFlies(fritz).
 chirps(burli).
 sings(burli).
